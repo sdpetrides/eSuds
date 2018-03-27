@@ -1,0 +1,10 @@
+env
+package.zip
+data*
+esuds*
+plots*
+accessKeys.csv
+.DS_Store
+.RData
+.Rhistory
+main.py
