@@ -1,4 +1,1 @@
-zip package.zip lambda_function.py
-cd ./env/lib/python2.7/site-packages/
-zip -r ../../../../package.zip *
-cd ../../../../
+zip -qr package.zip lambda_function.py ./env/lib/python2.7/site-packages/
